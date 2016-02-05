@@ -1,0 +1,112 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 93,
+          "y": 75,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">Build a Basic Cloud Using RDO-manager</div>",
+          "size": 48,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 323,
+          "y": 256,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div style=\"text-align: center;\">06 February 2016</div>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 328,
+          "y": 550,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<div style=\"text-align: center;\">@rainsdance</div><font><div style=\"text-align: center;\">#RDOcommunity</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": true,
+      "active": true
+    },
+    {
+      "components": [
+        {
+          "src": "https://repos.fedorapeople.org/repos/openstack-m/rdo-manager-docs/liberty/environments/virtual.html",
+          "type": "WebFrame",
+          "x": 28,
+          "y": -1,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 460,
+      "y": 180
+    }
+  ],
+  "background": "bg-transparent",
+  "activeSlide": {
+    "components": [],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 1,
+    "selected": true,
+    "active": true
+  },
+  "fileName": "BaSCwRM",
+  "surface": "img:http://i.imgur.com/ldme4j6.png",
+  "deckVersion": "1.0",
+  "cannedTransition": "cards",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
